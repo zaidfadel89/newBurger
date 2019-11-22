@@ -2,22 +2,25 @@
   background-image: url("../img/burgerpic2.png");
   background-repeat: no-repeat;
   background-position: right;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #13e424;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
   margin-top: 3%;
 }
 #newburger {
-  color: #5c5c5c;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(1, 1, 14), 0 0 5px darkblue;
 }
 #leftside {
   background-color: #5c5c5c;
   color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 1.9em;
 }
 #rightside {
-  background-color: #e49322;
+  background-color: #051efc;
   color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 1.9em;
 }
